@@ -10,3 +10,6 @@
 ![Screenshot 2024-09-24 004944](https://github.com/user-attachments/assets/3a25bddc-486d-48a1-8ffa-1581776846a0)
 
 ## Streamlit
+- Install Dependencies
+Untuk mengunduh semua library yang dibutuhkan bukan terminal/commad kemudian buka folder project ini dan ikuti langkah selanjutnya:
+pip install -r requirements.txt
