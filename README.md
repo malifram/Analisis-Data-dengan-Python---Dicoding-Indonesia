@@ -12,4 +12,7 @@
 ## Streamlit
 - Install Dependencies
 Untuk mengunduh semua library yang dibutuhkan bukan terminal/commad kemudian buka folder project ini dan ikuti langkah selanjutnya:
-pip install -r requirements.txt
+[pip install -r requirements.txt]
+
+- Run Dashboard
+[streamlit run dashboard.py]
