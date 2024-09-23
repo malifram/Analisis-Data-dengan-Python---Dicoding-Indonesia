@@ -5,3 +5,5 @@
 - Hari apa yang memiliki jumlah penyewaan sepeda terbanyak?
 - Berapa persentase user yang menggunakan layanan berdasarkan kondisi cuaca?
 - Pada pukul berapa terjadi peningkatan penyewaan sepeda yang signifikan?
+
+# Dashboard menggunakan Streamlit
