@@ -7,7 +7,8 @@
 - Pada pukul berapa terjadi peningkatan penyewaan sepeda yang signifikan?
 
 # Dashboard menggunakan Streamlit
-![Screenshot 2024-09-24 004944](https://github.com/user-attachments/assets/3a25bddc-486d-48a1-8ffa-1581776846a0)
+![image](https://github.com/user-attachments/assets/a80790b5-ffdf-4f61-b348-14a6ef409207)
+
 
 ## Streamlit
 - Install Dependencies
